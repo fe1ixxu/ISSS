@@ -15,6 +15,11 @@ the data in the local database to identify the signature. After experimental ver
 acceptance rate for single signature can reach 97%, and the false acceptance rate is
 approximately 0.5%.
 
+<div align=center>
+  
+<img src="https://github.com/fe1ixxu/ISSD/blob/master/demo/Issd_demo.gif" alt="demo" width="512px">
+</div>
+
 # Prerequisites
 * Leap motion and its API
 * required installation in ```requirement.txt```
