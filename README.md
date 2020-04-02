@@ -22,7 +22,10 @@ approximately 0.5%.
 
 # Prerequisites
 * Leap motion and its API
-* required installation in ```requirement.txt```
+* required installation in ```requirement.txt```, please run
+```
+conda install --yes --file requirements.txt
+```
 * Platform Win-64
 
 # Run
