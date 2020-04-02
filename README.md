@@ -32,5 +32,7 @@ python leapinterface.py
 ```
 
 # Built With
+* [PyQt](https://pypi.org/project/PyQt5/) - GUI framework
 * [Leapmotion](https://developer.leapmotion.com) - The hardware framework
 * [MySQL](https://www.mysql.com/) - Database
+
