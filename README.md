@@ -1,4 +1,4 @@
-# Invisble Seccurity Signature System
+# Invisble Security Signature System
 In biometrics, a person’s signature is considered one of the most reliable authentication modes.
 Like in banks where high security applications are required, the use of signatures for real-time
 and accurate personal authentication is necessary. However, it is also a non-negligible drawback
